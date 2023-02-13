@@ -6,23 +6,47 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "2023-02-13T09:39:57.109Z"
+      "createdAt": "2023-02-10T09:39:57.109Z"
     },
     {
       "id": 2,
       "description": "Lanchonete",
       "type": "outcome",
       "category": "Alimentação",
-      "price": -59.00,
-      "createdAt": "2023-02-13T09:39:57.109Z"
+      "price": 59,
+      "createdAt": "2023-02-12T09:39:57.109Z"
     },
     {
       "id": 3,
       "description": "Aluguel do apartamento",
       "type": "outcome",
       "category": "Moradia",
-      "price": -1200,
+      "price": 1200,
       "createdAt": "2023-02-13T09:39:57.109Z"
+    },
+    {
+      "id": 4,
+      "description": "Bônus por tempo de serviço",
+      "type": "income",
+      "category": "Extras",
+      "price": 500,
+      "createdAt": "2023-02-13T11:34:57.109Z"
+    },
+    {
+      "description": "Almoço",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 54,
+      "createdAt": "2023-02-13T14:38:06.306Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "type": "income",
+      "category": "Venda",
+      "price": 3000,
+      "createdAt": "2023-02-13T14:59:59.665Z",
+      "id": 6
     }
   ]
 }
